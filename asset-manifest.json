@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ortodonciainvisiblecr/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ortodonciainvisiblecr/static/js/main.25b5ead2.chunk.js",
+    "main.js.map": "/ortodonciainvisiblecr/static/js/main.25b5ead2.chunk.js.map",
+    "runtime-main.js": "/ortodonciainvisiblecr/static/js/runtime-main.64289d47.js",
+    "runtime-main.js.map": "/ortodonciainvisiblecr/static/js/runtime-main.64289d47.js.map",
+    "static/js/2.90278126.chunk.js": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js",
+    "static/js/2.90278126.chunk.js.map": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js.map",
+    "index.html": "/ortodonciainvisiblecr/index.html",
+    "precache-manifest.8cb41209ab40b7e510fca9c5c35403df.js": "/ortodonciainvisiblecr/precache-manifest.8cb41209ab40b7e510fca9c5c35403df.js",
+    "service-worker.js": "/ortodonciainvisiblecr/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ortodonciainvisiblecr/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.90278126.chunk.js.LICENSE.txt": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ortodonciainvisiblecr/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64289d47.js",
+    "static/js/2.90278126.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.25b5ead2.chunk.js"
+  ]
+}
