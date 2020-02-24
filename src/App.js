@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <body data-gr-c-s-loaded="true"><p class="p1"><span class="s1"><b> ¿Qué es la Ortodoncia Invisible?</b></span></p>
-        <p class="p1"><span class="s1">Es un tratamiento de ortodoncia que funciona por medio de alineadores dentales “invisibles” o transparentes, o sea sin brackets. Estos alineadores se cambian periódicamente según lo indique el ortodoncista. De esta manera los dientes se van moviendo progresivamente conforme se van cambiando los alineadores progresivamente. </span></p>
+        <p class="p1"><span class="s1">Es el tratamiento #1 de ortodoncia que funciona por medio de alineadores dentales “invisibles” o transparentes, o sea sin brackets. Estos alineadores se cambian periódicamente según lo indique el ortodoncista. De esta manera los dientes se van moviendo progresivamente conforme se van cambiando los alineadores progresivamente. </span></p>
         <p class="p1"><span class="s1"><b>Ventajas:</b></span></p>
         <ul class="ul1">
             <li class="li2"><span class="s1">&nbsp;Confort</span></li>
