@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ortodonciainvisiblecr/precache-manifest.86a2821726a6467483392b8ae14f6466.js"
+  "/ortodonciainvisiblecr/precache-manifest.9934542402aa8f7828e247e3ddb165b8.js"
 );
 
 self.addEventListener('message', (event) => {

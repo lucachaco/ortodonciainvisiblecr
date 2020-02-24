@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ortodonciainvisiblecr/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ortodonciainvisiblecr/static/js/main.f26e472a.chunk.js",
-    "main.js.map": "/ortodonciainvisiblecr/static/js/main.f26e472a.chunk.js.map",
+    "main.css": "/ortodonciainvisiblecr/static/css/main.7f527e1e.chunk.css",
+    "main.js": "/ortodonciainvisiblecr/static/js/main.936385b6.chunk.js",
+    "main.js.map": "/ortodonciainvisiblecr/static/js/main.936385b6.chunk.js.map",
     "runtime-main.js": "/ortodonciainvisiblecr/static/js/runtime-main.64289d47.js",
     "runtime-main.js.map": "/ortodonciainvisiblecr/static/js/runtime-main.64289d47.js.map",
-    "static/js/2.90278126.chunk.js": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js",
-    "static/js/2.90278126.chunk.js.map": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js.map",
+    "static/js/2.e4f269b8.chunk.js": "/ortodonciainvisiblecr/static/js/2.e4f269b8.chunk.js",
+    "static/js/2.e4f269b8.chunk.js.map": "/ortodonciainvisiblecr/static/js/2.e4f269b8.chunk.js.map",
     "index.html": "/ortodonciainvisiblecr/index.html",
-    "precache-manifest.86a2821726a6467483392b8ae14f6466.js": "/ortodonciainvisiblecr/precache-manifest.86a2821726a6467483392b8ae14f6466.js",
+    "precache-manifest.9934542402aa8f7828e247e3ddb165b8.js": "/ortodonciainvisiblecr/precache-manifest.9934542402aa8f7828e247e3ddb165b8.js",
     "service-worker.js": "/ortodonciainvisiblecr/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ortodonciainvisiblecr/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.90278126.chunk.js.LICENSE.txt": "/ortodonciainvisiblecr/static/js/2.90278126.chunk.js.LICENSE.txt",
+    "static/css/main.7f527e1e.chunk.css.map": "/ortodonciainvisiblecr/static/css/main.7f527e1e.chunk.css.map",
+    "static/js/2.e4f269b8.chunk.js.LICENSE.txt": "/ortodonciainvisiblecr/static/js/2.e4f269b8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ortodonciainvisiblecr/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.64289d47.js",
-    "static/js/2.90278126.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f26e472a.chunk.js"
+    "static/js/2.e4f269b8.chunk.js",
+    "static/css/main.7f527e1e.chunk.css",
+    "static/js/main.936385b6.chunk.js"
   ]
 }
