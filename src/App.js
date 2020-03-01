@@ -36,6 +36,11 @@ function App() {
         <p class="p4"><span class="s1">Ortodoncia sin brackets con excelentes resultados a corto plazo.</span></p>
         <p class="p6"><span class="s1"><b>Dr. Víctor Arguedas Sánchez</b></span></p>
         <p class="p6"><span class="s1">El Dr. Víctor Arguedas Sánchez, es Licenciado en Odontología y Doctor en cirugía dental, graduado de la Universidad de Costa Rica en el año 2009, posteriormente obtiene su especialidad en Ortodoncia y Ortopedia funcional de los maxilares, destacándose con graduación de honor en su generación. Se desempeña como docente e investigador de la Facultad de Odontología de la Universidad de Costa Rica, desde el año 2010-2017. Cuenta con diferentes certificaciones, dentro de las cuales destacan: Certificación en técnica Invisalign y Certificación en terapia miofuncional. Cuenta con su práctica privada desde el 2010, año en el que funda <a href="https://www.arguedassanchezdental.com/">Arguedas Sánchez Centro Odontológico</a>, una de las clínicas más grandes y reconocidas en la ciudad de Alajuela, en esta clínica se agendan apoximadamente 1000 citas mensuales, y cuenta con un personal humano de 12 colaboradores. Posteriormente también participa en sociedad en la clínica Sabana Dental Care. Actualmente es uno de los ortodoncistas que más ha impulsado el novedoso tratamiento de ortodoncia invisible, con una gran cantidad de casos tratados.</span></p>
+
+
+
+
+
         </body>
     </div>
   );
